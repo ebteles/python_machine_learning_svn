@@ -1,0 +1,744 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+       <?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+       <dataset>
+            <images> 
+                <image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0001.jpg'>
+<box top='141' left='52' width='101' height='20'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0002.jpg'>
+<box top='130' left='127' width='53' height='42'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0003.jpg'>
+<box top='139' left='46' width='110' height='21'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0004.jpg'>
+<box top='134' left='54' width='99' height='18'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0005.jpg'>
+<box top='142' left='53' width='105' height='21'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0006.jpg'>
+<box top='134' left='58' width='108' height='19'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0007.jpg'>
+<box top='142' left='41' width='106' height='20'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0008.jpg'>
+<box top='172' left='70' width='57' height='18'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0009.jpg'>
+<box top='137' left='44' width='111' height='20'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0010.jpg'>
+<box top='134' left='54' width='99' height='18'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0011.jpg'>
+<box top='84' left='83' width='42' height='23'/>
+<box top='28' left='42' width='63' height='28'/>
+<box top='167' left='111' width='42' height='25'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0012.jpg'>
+<box top='88' left='137' width='24' height='31'/>
+<box top='25' left='126' width='35' height='41'/>
+<box top='174' left='136' width='24' height='33'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0013.jpg'>
+<box top='79' left='81' width='46' height='23'/>
+<box top='21' left='37' width='69' height='29'/>
+<box top='164' left='112' width='46' height='26'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0014.jpg'>
+<box top='87' left='84' width='41' height='20'/>
+<box top='39' left='44' width='62' height='24'/>
+<box top='159' left='112' width='41' height='22'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0015.jpg'>
+<box top='83' left='86' width='43' height='23'/>
+<box top='26' left='44' width='65' height='28'/>
+<box top='168' left='116' width='43' height='26'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0016.jpg'>
+<box top='83' left='90' width='45' height='21'/>
+<box top='32' left='47' width='67' height='25'/>
+<box top='159' left='121' width='44' height='23'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0017.jpg'>
+<box top='85' left='76' width='44' height='23'/>
+<box top='30' left='34' width='66' height='28'/>
+<box top='168' left='106' width='44' height='26'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0018.jpg'>
+<box top='117' left='90' width='26' height='27'/>
+<box top='54' left='76' width='39' height='34'/>
+<box top='210' left='90' width='27' height='16'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0019.jpg'>
+<box top='80' left='80' width='46' height='23'/>
+<box top='25' left='35' width='70' height='27'/>
+<box top='162' left='111' width='46' height='25'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0020.jpg'>
+<box top='87' left='84' width='41' height='20'/>
+<box top='39' left='44' width='62' height='24'/>
+<box top='159' left='112' width='41' height='22'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0021.jpg'>
+<box top='60' left='57' width='113' height='25'/>
+<box top='131' left='58' width='123' height='51'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0022.jpg'>
+<box top='60' left='128' width='59' height='48'/>
+<box top='128' left='112' width='68' height='76'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0023.jpg'>
+<box top='55' left='53' width='123' height='25'/>
+<box top='127' left='55' width='133' height='53'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0024.jpg'>
+<box top='67' left='59' width='110' height='21'/>
+<box top='128' left='60' width='120' height='44'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0025.jpg'>
+<box top='59' left='59' width='117' height='25'/>
+<box top='131' left='60' width='128' height='52'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0026.jpg'>
+<box top='62' left='63' width='120' height='22'/>
+<box top='126' left='64' width='130' height='47'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0027.jpg'>
+<box top='62' left='50' width='117' height='24'/>
+<box top='133' left='51' width='127' height='50'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0028.jpg'>
+<box top='91' left='80' width='63' height='32'/>
+<box top='168' left='64' width='73' height='58'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0029.jpg'>
+<box top='57' left='52' width='123' height='24'/>
+<box top='127' left='53' width='135' height='50'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0030.jpg'>
+<box top='67' left='59' width='110' height='21'/>
+<box top='128' left='60' width='120' height='44'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0031.jpg'>
+<box top='60' left='87' width='106' height='51'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0032.jpg'>
+<box top='58' left='159' width='61' height='72'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0033.jpg'>
+<box top='57' left='83' width='117' height='52'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0034.jpg'>
+<box top='64' left='88' width='105' height='44'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0035.jpg'>
+<box top='60' left='89' width='112' height='52'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0036.jpg'>
+<box top='60' left='94' width='115' height='47'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0037.jpg'>
+<box top='62' left='77' width='111' height='50'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0038.jpg'>
+<box top='85' left='99' width='66' height='61'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0039.jpg'>
+<box top='57' left='81' width='118' height='51'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0040.jpg'>
+<box top='64' left='88' width='105' height='44'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0041.jpg'>
+<box top='88' left='55' width='127' height='56'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0042.jpg'>
+<box top='86' left='118' width='71' height='81'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0043.jpg'>
+<box top='83' left='51' width='139' height='58'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0044.jpg'>
+<box top='91' left='57' width='124' height='48'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0045.jpg'>
+<box top='87' left='57' width='132' height='57'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0046.jpg'>
+<box top='87' left='61' width='134' height='51'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0047.jpg'>
+<box top='90' left='48' width='131' height='55'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0048.jpg'>
+<box top='120' left='69' width='76' height='67'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0049.jpg'>
+<box top='85' left='49' width='140' height='54'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0050.jpg'>
+<box top='91' left='57' width='124' height='48'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0051.jpg'>
+<box top='168' left='215' width='52' height='15'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0052.jpg'>
+<box top='190' left='205' width='-22' height='33'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0053.jpg'>
+<box top='167' left='223' width='55' height='16'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0054.jpg'>
+<box top='157' left='214' width='51' height='20'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0055.jpg'>
+<box top='169' left='224' width='54' height='14'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0056.jpg'>
+<box top='159' left='232' width='46' height='21'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0057.jpg'>
+<box top='169' left='211' width='54' height='14'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0058.jpg'>
+<box top='208' left='153' width='30' height='28'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0059.jpg'>
+<box top='164' left='223' width='55' height='19'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0060.jpg'>
+<box top='157' left='214' width='51' height='20'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0061.jpg'>
+<box top='84' left='30' width='62' height='24'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0062.jpg'>
+<box top='79' left='78' width='34' height='37'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0063.jpg'>
+<box top='81' left='26' width='68' height='25'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0064.jpg'>
+<box top='83' left='31' width='61' height='21'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0065.jpg'>
+<box top='84' left='31' width='64' height='24'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0066.jpg'>
+<box top='82' left='33' width='66' height='22'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0067.jpg'>
+<box top='85' left='23' width='65' height='24'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0068.jpg'>
+<box top='108' left='43' width='37' height='30'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0069.jpg'>
+<box top='81' left='25' width='68' height='24'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0070.jpg'>
+<box top='83' left='31' width='61' height='21'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0071.jpg'>
+<box top='23' left='87' width='63' height='30'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0072.jpg'>
+<box top='31' left='148' width='36' height='42'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0073.jpg'>
+<box top='17' left='86' width='69' height='30'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0074.jpg'>
+<box top='35' left='88' width='62' height='26'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0075.jpg'>
+<box top='21' left='90' width='66' height='31'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0076.jpg'>
+<box top='28' left='95' width='67' height='27'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0077.jpg'>
+<box top='25' left='81' width='65' height='30'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0078.jpg'>
+<box top='52' left='100' width='39' height='36'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0079.jpg'>
+<box top='21' left='84' width='70' height='29'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0080.jpg'>
+<box top='35' left='88' width='62' height='26'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0081.jpg'>
+<box top='86' left='38' width='48' height='16'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0082.jpg'>
+<box top='82' left='95' width='26' height='26'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0083.jpg'>
+<box top='82' left='33' width='54' height='16'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0084.jpg'>
+<box top='86' left='39' width='48' height='14'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0085.jpg'>
+<box top='85' left='39' width='51' height='16'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0086.jpg'>
+<box top='84' left='41' width='53' height='14'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0087.jpg'>
+<box top='87' left='31' width='50' height='16'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0088.jpg'>
+<box top='113' left='55' width='29' height='20'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0089.jpg'>
+<box top='82' left='33' width='53' height='16'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0090.jpg'>
+<box top='86' left='39' width='48' height='14'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0091.jpg'>
+<box top='39' left='36' width='149' height='32'/>
+<box top='132' left='41' width='133' height='46'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0092.jpg'>
+<box top='35' left='120' width='78' height='63'/>
+<box top='125' left='104' width='72' height='74'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0093.jpg'>
+<box top='33' left='30' width='163' height='32'/>
+<box top='129' left='36' width='144' height='47'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0094.jpg'>
+<box top='49' left='38' width='146' height='27'/>
+<box top='129' left='43' width='130' height='40'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0095.jpg'>
+<box top='38' left='37' width='155' height='32'/>
+<box top='133' left='42' width='138' height='47'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0096.jpg'>
+<box top='42' left='40' width='159' height='29'/>
+<box top='127' left='46' width='141' height='43'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0097.jpg'>
+<box top='42' left='28' width='154' height='31'/>
+<box top='134' left='33' width='138' height='46'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0098.jpg'>
+<box top='67' left='71' width='84' height='42'/>
+<box top='168' left='56' width='78' height='57'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0099.jpg'>
+<box top='37' left='28' width='164' height='30'/>
+<box top='128' left='34' width='146' height='45'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0100.jpg'>
+<box top='49' left='38' width='146' height='27'/>
+<box top='129' left='43' width='130' height='40'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0101.jpg'>
+<box top='104' left='94' width='87' height='55'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0102.jpg'>
+<box top='110' left='133' width='52' height='71'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0103.jpg'>
+<box top='100' left='94' width='94' height='56'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0104.jpg'>
+<box top='105' left='95' width='85' height='47'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0105.jpg'>
+<box top='104' left='98' width='90' height='56'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0106.jpg'>
+<box top='102' left='102' width='92' height='50'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0107.jpg'>
+<box top='106' left='88' width='90' height='54'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0108.jpg'>
+<box top='141' left='87' width='55' height='63'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0109.jpg'>
+<box top='101' left='92' width='96' height='53'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0110.jpg'>
+<box top='105' left='95' width='85' height='47'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0111.jpg'>
+<box top='92' left='43' width='154' height='63'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0112.jpg'>
+<box top='86' left='109' width='86' height='96'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0113.jpg'>
+<box top='87' left='38' width='168' height='65'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0114.jpg'>
+<box top='94' left='45' width='151' height='55'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0115.jpg'>
+<box top='91' left='45' width='160' height='65'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0116.jpg'>
+<box top='90' left='48' width='164' height='59'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0117.jpg'>
+<box top='93' left='35' width='160' height='64'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0118.jpg'>
+<box top='124' left='60' width='93' height='77'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0119.jpg'>
+<box top='88' left='36' width='170' height='63'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0120.jpg'>
+<box top='94' left='45' width='151' height='55'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0121.jpg'>
+<box top='151' left='94' width='67' height='31'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0122.jpg'>
+<box top='150' left='141' width='38' height='44'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0123.jpg'>
+<box top='149' left='92' width='73' height='32'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0124.jpg'>
+<box top='143' left='95' width='66' height='27'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0125.jpg'>
+<box top='151' left='97' width='70' height='32'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0126.jpg'>
+<box top='143' left='102' width='72' height='29'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0127.jpg'>
+<box top='152' left='86' width='70' height='30'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0128.jpg'>
+<box top='186' left='88' width='41' height='9'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0129.jpg'>
+<box top='147' left='90' width='74' height='31'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0130.jpg'>
+<box top='143' left='95' width='66' height='27'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0131.jpg'>
+<box top='165' left='146' width='52' height='18'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0132.jpg'>
+<box top='171' left='172' width='29' height='12'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0133.jpg'>
+<box top='163' left='147' width='57' height='20'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0134.jpg'>
+<box top='154' left='146' width='51' height='19'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0135.jpg'>
+<box top='165' left='151' width='55' height='18'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0136.jpg'>
+<box top='156' left='158' width='55' height='20'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0137.jpg'>
+<box top='166' left='139' width='54' height='17'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0138.jpg'>
+<box top='201' left='117' width='31' height='26'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0139.jpg'>
+<box top='160' left='146' width='58' height='22'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0140.jpg'>
+<box top='154' left='146' width='51' height='19'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0141.jpg'>
+<box top='0' left='4' width='235' height='93'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0142.jpg'>
+<box top='0' left='97' width='130' height='106'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0143.jpg'>
+<box top='0' left='0' width='241' height='93'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0144.jpg'>
+<box top='7' left='7' width='230' height='81'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0145.jpg'>
+<box top='0' left='4' width='237' height='94'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0146.jpg'>
+<box top='3' left='7' width='234' height='86'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0147.jpg'>
+<box top='1' left='0' width='238' height='93'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0148.jpg'>
+<box top='7' left='44' width='140' height='99'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0149.jpg'>
+<box top='0' left='0' width='241' height='91'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0150.jpg'>
+<box top='7' left='7' width='230' height='81'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0151.jpg'>
+<box top='130' left='230' width='48' height='24'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0152.jpg'>
+<box top='154' left='226' width='28' height='17'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0153.jpg'>
+<box top='127' left='240' width='52' height='25'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0154.jpg'>
+<box top='123' left='229' width='47' height='21'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0155.jpg'>
+<box top='130' left='240' width='49' height='24'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0156.jpg'>
+<box top='123' left='248' width='50' height='22'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0157.jpg'>
+<box top='131' left='226' width='50' height='24'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0158.jpg'>
+<box top='166' left='170' width='30' height='5'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0159.jpg'>
+<box top='126' left='238' width='53' height='23'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0160.jpg'>
+<box top='123' left='229' width='47' height='21'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0161.jpg'>
+<box top='87' left='92' width='81' height='37'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0162.jpg'>
+<box top='88' left='150' width='46' height='53'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0163.jpg'>
+<box top='83' left='90' width='89' height='38'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0164.jpg'>
+<box top='88' left='93' width='80' height='32'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0165.jpg'>
+<box top='86' left='95' width='85' height='38'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0166.jpg'>
+<box top='85' left='100' width='87' height='34'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0167.jpg'>
+<box top='88' left='84' width='85' height='37'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0168.jpg'>
+<box top='116' left='97' width='49' height='45'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0169.jpg'>
+<box top='84' left='88' width='90' height='36'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0170.jpg'>
+<box top='88' left='93' width='80' height='32'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0171.jpg'>
+<box top='148' left='60' width='171' height='56'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0172.jpg'>
+<box top='141' left='115' width='94' height='63'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0173.jpg'>
+<box top='146' left='56' width='186' height='58'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0174.jpg'>
+<box top='141' left='62' width='167' height='61'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0175.jpg'>
+<box top='149' left='63' width='176' height='55'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0176.jpg'>
+<box top='141' left='66' width='182' height='63'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0177.jpg'>
+<box top='149' left='51' width='178' height='55'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0178.jpg'>
+<box top='182' left='62' width='102' height='22'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0179.jpg'>
+<box top='143' left='54' width='187' height='61'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0180.jpg'>
+<box top='141' left='62' width='167' height='61'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0181.jpg'>
+<box top='76' left='21' width='83' height='33'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0182.jpg'>
+<box top='53' left='140' width='46' height='50'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0183.jpg'>
+<box top='75' left='10' width='91' height='33'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0184.jpg'>
+<box top='76' left='25' width='81' height='28'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0185.jpg'>
+<box top='76' left='21' width='87' height='33'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0186.jpg'>
+<box top='74' left='25' width='88' height='30'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0187.jpg'>
+<box top='78' left='7' width='86' height='32'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0188.jpg'>
+<box top='94' left='71' width='49' height='39'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0189.jpg'>
+<box top='74' left='8' width='91' height='32'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0190.jpg'>
+<box top='76' left='25' width='81' height='28'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0191.jpg'>
+<box top='118' left='40' width='97' height='31'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0192.jpg'>
+<box top='111' left='108' width='53' height='52'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0193.jpg'>
+<box top='114' left='35' width='105' height='32'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0194.jpg'>
+<box top='117' left='42' width='95' height='27'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0195.jpg'>
+<box top='118' left='41' width='101' height='32'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0196.jpg'>
+<box top='115' left='45' width='103' height='28'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0197.jpg'>
+<box top='120' left='32' width='101' height='31'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0198.jpg'>
+<box top='153' left='60' width='56' height='39'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0199.jpg'>
+<box top='114' left='33' width='106' height='31'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0200.jpg'>
+<box top='117' left='42' width='95' height='27'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0201.jpg'>
+<box top='112' left='42' width='143' height='61'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0202.jpg'>
+<box top='106' left='105' width='80' height='90'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0203.jpg'>
+<box top='108' left='37' width='156' height='62'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0204.jpg'>
+<box top='112' left='44' width='140' height='52'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0205.jpg'>
+<box top='112' left='44' width='148' height='62'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0206.jpg'>
+<box top='109' left='47' width='152' height='55'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0207.jpg'>
+<box top='114' left='34' width='148' height='60'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0208.jpg'>
+<box top='146' left='57' width='86' height='74'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0209.jpg'>
+<box top='109' left='35' width='157' height='59'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0210.jpg'>
+<box top='112' left='44' width='140' height='52'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0211.jpg'>
+<box top='43' left='37' width='145' height='35'/>
+<box top='136' left='47' width='134' height='51'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0212.jpg'>
+<box top='38' left='119' width='77' height='66'/>
+<box top='130' left='106' width='73' height='78'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0213.jpg'>
+<box top='37' left='31' width='158' height='35'/>
+<box top='132' left='42' width='146' height='52'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0214.jpg'>
+<box top='52' left='39' width='142' height='30'/>
+<box top='132' left='49' width='131' height='44'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0215.jpg'>
+<box top='41' left='38' width='151' height='36'/>
+<box top='136' left='49' width='139' height='52'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0216.jpg'>
+<box top='46' left='41' width='155' height='31'/>
+<box top='131' left='52' width='142' height='46'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0217.jpg'>
+<box top='45' left='29' width='150' height='34'/>
+<box top='137' left='39' width='139' height='51'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0218.jpg'>
+<box top='71' left='70' width='83' height='45'/>
+<box top='172' left='57' width='80' height='54'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0219.jpg'>
+<box top='40' left='29' width='160' height='34'/>
+<box top='131' left='40' width='148' height='50'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0220.jpg'>
+<box top='52' left='39' width='142' height='30'/>
+<box top='132' left='49' width='131' height='44'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0221.jpg'>
+<box top='18' left='29' width='60' height='27'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0222.jpg'>
+<box top='15' left='85' width='34' height='38'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0223.jpg'>
+<box top='15' left='25' width='66' height='27'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0224.jpg'>
+<box top='24' left='30' width='59' height='23'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0225.jpg'>
+<box top='18' left='30' width='62' height='26'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0226.jpg'>
+<box top='20' left='32' width='64' height='24'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0227.jpg'>
+<box top='20' left='22' width='63' height='26'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0228.jpg'>
+<box top='33' left='50' width='36' height='31'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0229.jpg'>
+<box top='17' left='23' width='66' height='26'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0230.jpg'>
+<box top='24' left='30' width='59' height='23'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0231.jpg'>
+<box top='13' left='173' width='63' height='30'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0232.jpg'>
+<box top='33' left='190' width='36' height='43'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0233.jpg'>
+<box top='9' left='179' width='62' height='31'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0234.jpg'>
+<box top='20' left='172' width='62' height='26'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0235.jpg'>
+<box top='12' left='179' width='62' height='30'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0236.jpg'>
+<box top='16' left='187' width='54' height='27'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0237.jpg'>
+<box top='14' left='169' width='66' height='30'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0238.jpg'>
+<box top='33' left='144' width='39' height='36'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0239.jpg'>
+<box top='11' left='178' width='63' height='30'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0240.jpg'>
+<box top='20' left='172' width='62' height='26'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0241.jpg'>
+<box top='0' left='24' width='206' height='91'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0242.jpg'>
+<box top='0' left='128' width='117' height='121'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0243.jpg'>
+<box top='0' left='16' width='225' height='87'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0244.jpg'>
+<box top='3' left='27' width='202' height='88'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0245.jpg'>
+<box top='0' left='24' width='215' height='90'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0246.jpg'>
+<box top='0' left='27' width='221' height='88'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0247.jpg'>
+<box top='0' left='13' width='214' height='92'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0248.jpg'>
+<box top='5' left='67' width='127' height='122'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0249.jpg'>
+<box top='0' left='13' width='227' height='88'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0250.jpg'>
+<box top='3' left='27' width='202' height='88'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0251.jpg'>
+<box top='93' left='59' width='95' height='40'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0252.jpg'>
+<box top='92' left='114' width='53' height='60'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0253.jpg'>
+<box top='89' left='56' width='103' height='41'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0254.jpg'>
+<box top='94' left='60' width='93' height='35'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0255.jpg'>
+<box top='92' left='61' width='99' height='42'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0256.jpg'>
+<box top='91' left='64' width='101' height='37'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0257.jpg'>
+<box top='94' left='51' width='98' height='41'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0258.jpg'>
+<box top='124' left='69' width='57' height='49'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0259.jpg'>
+<box top='89' left='54' width='104' height='40'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0260.jpg'>
+<box top='94' left='60' width='93' height='35'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0261.jpg'>
+<box top='123' left='57' width='112' height='43'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0262.jpg'>
+<box top='120' left='114' width='61' height='65'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0263.jpg'>
+<box top='119' left='53' width='122' height='44'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0264.jpg'>
+<box top='121' left='59' width='109' height='37'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0265.jpg'>
+<box top='123' left='59' width='116' height='44'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0266.jpg'>
+<box top='119' left='63' width='118' height='39'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0267.jpg'>
+<box top='125' left='50' width='116' height='42'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0268.jpg'>
+<box top='159' left='66' width='66' height='52'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0269.jpg'>
+<box top='119' left='52' width='122' height='42'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0270.jpg'>
+<box top='121' left='59' width='109' height='37'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0271.jpg'>
+<box top='142' left='64' width='83' height='20'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0272.jpg'>
+<box top='134' left='130' width='44' height='38'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0273.jpg'>
+<box top='139' left='59' width='90' height='21'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0274.jpg'>
+<box top='135' left='66' width='81' height='18'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0275.jpg'>
+<box top='142' left='66' width='86' height='21'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0276.jpg'>
+<box top='135' left='71' width='88' height='19'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0277.jpg'>
+<box top='142' left='55' width='86' height='21'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0278.jpg'>
+<box top='175' left='75' width='48' height='20'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0279.jpg'>
+<box top='138' left='57' width='92' height='20'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0280.jpg'>
+<box top='135' left='66' width='81' height='18'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0281.jpg'>
+<box top='75' left='75' width='86' height='25'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0282.jpg'>
+<box top='70' left='153' width='46' height='42'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0283.jpg'>
+<box top='71' left='70' width='94' height='25'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0284.jpg'>
+<box top='77' left='77' width='84' height='21'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0285.jpg'>
+<box top='74' left='78' width='89' height='25'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0286.jpg'>
+<box top='74' left='82' width='92' height='22'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0287.jpg'>
+<box top='77' left='66' width='89' height='24'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0288.jpg'>
+<box top='100' left='94' width='50' height='31'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0289.jpg'>
+<box top='72' left='69' width='94' height='24'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0290.jpg'>
+<box top='77' left='77' width='84' height='21'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0291.jpg'>
+<box top='115' left='58' width='71' height='32'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0292.jpg'>
+<box top='107' left='130' width='40' height='47'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0293.jpg'>
+<box top='112' left='52' width='79' height='33'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0294.jpg'>
+<box top='112' left='60' width='70' height='28'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0295.jpg'>
+<box top='115' left='60' width='74' height='33'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0296.jpg'>
+<box top='110' left='64' width='76' height='30'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0297.jpg'>
+<box top='116' left='49' width='74' height='32'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0298.jpg'>
+<box top='145' left='75' width='43' height='39'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0299.jpg'>
+<box top='111' left='51' width='78' height='32'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0300.jpg'>
+<box top='112' left='60' width='70' height='28'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0301.jpg'>
+<box top='82' left='60' width='44' height='20'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0302.jpg'>
+<box top='84' left='99' width='25' height='28'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0303.jpg'>
+<box top='78' left='59' width='48' height='20'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0304.jpg'>
+<box top='82' left='61' width='43' height='17'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0305.jpg'>
+<box top='81' left='63' width='45' height='20'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0306.jpg'>
+<box top='80' left='65' width='47' height='18'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0307.jpg'>
+<box top='83' left='55' width='45' height='20'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0308.jpg'>
+<box top='109' left='63' width='27' height='23'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0309.jpg'>
+<box top='79' left='58' width='48' height='19'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_aug_0310.jpg'>
+<box top='82' left='61' width='43' height='17'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_dor_001.jpg'>
+<box top='134' left='54' width='99' height='18'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_dor_003.jpg'>
+<box top='87' left='84' width='41' height='20'/>
+<box top='39' left='44' width='62' height='24'/>
+<box top='159' left='112' width='41' height='22'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_dor_004.jpg'>
+<box top='67' left='59' width='110' height='21'/>
+<box top='128' left='60' width='120' height='44'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_dor_005.jpg'>
+<box top='64' left='88' width='105' height='44'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_dor_006.jpg'>
+<box top='91' left='57' width='124' height='48'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_dor_007.jpg'>
+<box top='157' left='214' width='51' height='20'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_dor_008.jpg'>
+<box top='83' left='31' width='61' height='21'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_dor_009.jpg'>
+<box top='35' left='88' width='62' height='26'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_dor_010.jpg'>
+<box top='86' left='39' width='48' height='14'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_dor_011.jpg'>
+<box top='49' left='38' width='146' height='27'/>
+<box top='129' left='43' width='130' height='40'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_dor_012.jpg'>
+<box top='105' left='95' width='85' height='47'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_dor_013.jpg'>
+<box top='94' left='45' width='151' height='55'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_dor_014.jpg'>
+<box top='143' left='95' width='66' height='27'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_dor_015.jpg'>
+<box top='154' left='146' width='51' height='19'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_dor_016.jpg'>
+<box top='7' left='7' width='230' height='81'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_dor_017.jpg'>
+<box top='123' left='229' width='47' height='21'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_dor_018.jpg'>
+<box top='88' left='93' width='80' height='32'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_dor_020.jpg'>
+<box top='141' left='62' width='167' height='61'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_dor_021.jpg'>
+<box top='76' left='25' width='81' height='28'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_dor_022.jpg'>
+<box top='117' left='42' width='95' height='27'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_dor_024.jpg'>
+<box top='112' left='44' width='140' height='52'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_dor_025.jpg'>
+<box top='52' left='39' width='142' height='30'/>
+<box top='132' left='49' width='131' height='44'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_dor_026.jpg'>
+<box top='24' left='30' width='59' height='23'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_dor_027.jpg'>
+<box top='20' left='172' width='62' height='26'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_dor_028.jpg'>
+<box top='3' left='27' width='202' height='88'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_dor_029.jpg'>
+<box top='94' left='60' width='93' height='35'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_dor_030.jpg'>
+<box top='121' left='59' width='109' height='37'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_dor_031.jpg'>
+<box top='135' left='66' width='81' height='18'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_dor_032.jpg'>
+<box top='77' left='77' width='84' height='21'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_dor_033.jpg'>
+<box top='112' left='60' width='70' height='28'/>
+</image><image file='D:\Teles\Desenvolvimento\JupyterNotebooks\DLib\images\doriana\output\doriana_dor_034.jpg'>
+<box top='82' left='61' width='43' height='17'/>
+</image> 
+            </images> 
+       </dataset>
